@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suscripción a revistas científicas de acceso abierto - Carrera de Medicina</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { text-align: center; }
+        h2 { color: #333; }
+        ol { margin-left: 20px; }
+        li { margin-bottom: 10px; }
+        a { color: #0066cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: linear-gradient(to right, #87CEEB, #FFFF00); /* Gradiente de azul a amarillo */
+        }
+        h1 { text-align: center; color: #333; }
+        h2 { color: #333; }
+        ol { margin-left: 20px; }
+        li { margin-bottom: 10px; }
+        a { color: #0066cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1> <u> Suscripción a revistas científicas de acceso abierto<br>Carrera de Medicina</u></h1>
+
+    <h2>I. Revistas de Medicina en español (Acceso Abierto) de mayor impacto</h2>
+    <ol start="1">
+        <li>Revista Panamericana de Salud Pública (RPSP) - <a href="https://revistas.paho.org">https://revistas.paho.org</a></li>
+        <li>Gaceta Sanitaria - <a href="https://www.gacetasanitaria.org">https://www.gacetasanitaria.org</a></li>
+        <li>Revista Médica del Instituto Mexicano del Seguro Social (Rev Med IMSS) - <a href="https://www.medigraphic.com/revista.php?id=19">https://www.medigraphic.com/revista.php?id=19</a></li>
+        <li>Archivos de Medicina (España) - <a href="https://www.archivosdemedicina.com">https://www.archivosdemedicina.com</a></li>
+        <li>Revista Cubana de Medicina General Integral - <a href="http://www.revmedicgc.sld.cu">http://www.revmedicgc.sld.cu</a></li>
+        <li>Revista Biomédica (Universidad Autónoma de Aguascalientes, México) - <a href="https://revistabiomedica.mx">https://revistabiomedica.mx</a></li>
+        <li>Medicina y Seguridad del Trabajo - <a href="https://medseguridad.trabajo.gob.es">https://medseguridad.trabajo.gob.es</a></li>
+    </ol>
+
+    <h2>II. Revistas Científicas De Acceso Abierto En Medicina Más Relevantes En Otros Idiomas</h2>
+    <ol start="8">
+        <li>PLOS Medicine - <a href="https://journals.plos.org/plosmedicine">https://journals.plos.org/plosmedicine</a></li>
+        <li>BMJ Open - <a href="https://bmjopen.bmj.com">https://bmjopen.bmj.com</a></li>
+        <li>Frontiers in Medicine - <a href="https://www.frontiersin.org/journals/medicine">https://www.frontiersin.org/journals/medicine</a></li>
+        <li>BMC Medicine - <a href="https://bmcmedicine.biomedcentral.com">https://bmcmedicine.biomedcentral.com</a></li>
+        <li>The Lancet Regional Health (varias regiones) - <a href="https://www.thelancet.com/journals/lanam">https://www.thelancet.com/journals/lanam</a></li>
+        <li>Revista Panamericana de Salud Pública (RPSP) - <a href="https://revistas.paho.org">https://revistas.paho.org</a></li>
+        <li>Medicina Clínica Práctica - <a href="https://www.sciencedirect.com/journal/medicina-clinica-practica">https://www.sciencedirect.com/journal/medicina-clinica-practica</a></li>
+    </ol>
+
+    <h2>III. Revistas de Medicina más relevantes en SciELO (Acceso Abierto)</h2>
+    <ol start="15">
+        <li>Revista de Saúde Pública (Brasil) - <a href="https://www.scielo.br/j/rsp">https://www.scielo.br/j/rsp</a></li>
+        <li>Cadernos de Saúde Pública (Brasil) - <a href="https://www.scielo.br/j/csp">https://www.scielo.br/j/csp</a></li>
+        <li>Salud Pública de México - <a href="https://saludpublica.mx">https://saludpublica.mx</a></li>
+        <li>Revista Médica del Instituto Mexicano del Seguro Social - <a href="https://www.scielo.org.mx/scielo.php?script=sci_serial&pid=0188-4419">https://www.scielo.org.mx/scielo.php?script=sci_serial&pid=0188-4419</a></li>
+        <li>Revista Peruana de Medicina Experimental y Salud Pública - <a href="https://www.scielosp.org/journal/rpmesp/">https://www.scielosp.org/journal/rpmesp/</a></li>
+        <li>Medicina (Buenos Aires) - <a href="https://www.scielo.org.ar/scielo.php?script=sci_serial&pid=0025-7680">https://www.scielo.org.ar/scielo.php?script=sci_serial&pid=0025-7680</a></li>
+        <li>Revista Chilena de Infectología - <a href="https://www.scielo.cl/scielo.php?script=sci_serial&pid=0716-1018">https://www.scielo.cl/scielo.php?script=sci_serial&pid=0716-1018</a></li>
+    </ol>
+
+    <h2>IV. Revistas científicas de medicina de acceso abierto más relevantes en España.</h2>
+    <ol start="22">
+        <li>Atención Primaria - <a href="https://www.elsevier.es/es-revista-atencion-primaria-27">https://www.elsevier.es/es-revista-atencion-primaria-27</a></li>
+        <li>Gaceta Sanitaria - <a href="https://www.gacetasanitaria.org">https://www.gacetasanitaria.org</a></li>
+        <li></li> <!-- Empty as per document -->
+        <li>Revista Española de Salud Pública - <a href="https://www.mscbs.gob.es/biblioPublic/publicaciones/recursos_propios/resp/home.htm">https://www.mscbs.gob.es/biblioPublic/publicaciones/recursos_propios/resp/home.htm</a></li>
+        <li>Archivos de Bronconeumología - <a href="https://www.archbronconeumol.org">https://www.archbronconeumol.org</a></li>
+        <li>Revista Clínica Española - <a href="https://www.revclinesp.es">https://www.revclinesp.es</a></li>
+        <li>Medicina Clínica - <a href="https://www.elsevier.es/es-revista-medicina-clinica-2">https://www.elsevier.es/es-revista-medicina-clinica-2</a></li>
+        <li>Revista Española de Cardiología (REC) - <a href="https://www.revespcardiol.org">https://www.revespcardiol.org</a></li>
+    </ol>
+
+    <h2>V. Revistas científicas de medicina de acceso abierto más relevantes en México</h2>
+    <ol start="30">
+        <li>Salud Pública de México - <a href="https://saludpublica.mx">https://saludpublica.mx</a></li>
+        <li>Revista Médica del Instituto Mexicano del Seguro Social (IMSS) - <a href="https://revistamedica.imss.gob.mx">https://revistamedica.imss.gob.mx</a></li>
+        <li>Gaceta Médica de México - <a href="https://www.gacetamedicademexico.com">https://www.gacetamedicademexico.com</a></li>
+        <li>Revista de Investigación Clínica - <a href="https://www.medigraphic.com/pdfs/revinvcli/ric-2024/ric241a.pdf">https://www.medigraphic.com/pdfs/revinvcli/ric-2024/ric241a.pdf</a></li>
+        <li>Revista Mexicana de Pediatría - <a href="https://revistamexicanadepediatria.org.mx">https://revistamexicanadepediatria.org.mx</a></li>
+        <li>Archivos de Cardiología de México - <a href="https://archivoscardiologia.org.mx">https://archivoscardiologia.org.mx</a></li>
+        <li>Revista Biomédica - <a href="https://revistabiomedica.mx">https://revistabiomedica.mx</a></li>
+    </ol>
+
+    <h2>VI. Revistas científicas de medicina de acceso abierto más relevantes en Chile</h2>
+    <ol start="37">
+        <li>Revista Médica de Chile - <a href="https://www.revistamedicadechile.cl/">https://www.revistamedicadechile.cl/</a></li>
+        <li>Revista Chilena de Infectología - <a href="https://www.revinf.cl/">https://www.revinf.cl/</a></li>
+        <li>Revista Chilena de Salud Pública - <a href="https://revistasaludpublica.uchile.cl/">https://revistasaludpublica.uchile.cl/</a></li>
+        <li>International Journal of Medical and Surgical Sciences (IJMSS) - <a href="https://revistas.uautonoma.cl/index.php/ijmss">https://revistas.uautonoma.cl/index.php/ijmss</a></li>
+    </ol>
+
+    <h2>VII. Revistas científicas de medicina de acceso abierto más relevantes en Cuba</h2>
+    <ol start="41">
+        <li>Revista Cubana de Salud Pública - <a href="https://revsaludpublica.sld.cu">https://revsaludpublica.sld.cu</a></li>
+        <li>Revista Cubana de Medicina Tropical - <a href="https://revmedtropical.sld.cu">https://revmedtropical.sld.cu</a></li>
+        <li>Revista Cubana de Enfermería - <a href="https://revenfermeria.sld.cu">https://revenfermeria.sld.cu</a></li>
+        <li>Revista Cubana de Estomatología - <a href="https://revestomatologia.sld.cu">https://revestomatologia.sld.cu</a></li> <!-- Corrected incomplete URL -->
+        <li>Revista Habanera de Ciencias Médicas - <a href="https://revhabanera.sld.cu">https://revhabanera.sld.cu</a></li>
+        <li>MEDISAN - <a href="https://medisan.sld.cu">https://medisan.sld.cu</a></li>
+    </ol>
+
+    <h2>VIII. Revistas científicas de medicina de acceso abierto más relevantes en Argentina.</h2>
+    <ol start="47">
+        <li>Revista de la Asociación Médica Argentina (RAM) - <a href="https://www.revistasam.com.ar/index.php/RAM/about1">https://www.revistasam.com.ar/index.php/RAM/about1</a></li>
+        <li>Revista Argentina de Microbiología - <a href="https://www.aam.org.ar/publicaciones/revista">https://www.aam.org.ar/publicaciones/revista</a></li>
+        <li>Archivos Argentinos de Pediatría - <a href="https://www.sap.org.ar/publicaciones/numero-actual">https://www.sap.org.ar/publicaciones/numero-actual</a></li>
+        <li>Revista Médica del Uruguay (con fuerte colaboración argentina) - <a href="https://revistamedicadeluruguay.com/">https://revistamedicadeluruguay.com/</a></li>
+        <li>Revista Biomédica (de la Universidad Nacional de Córdoba) - <a href="https://revistabiomedica.org/index.php/biomedica">https://revistabiomedica.org/index.php/biomedica</a></li>
+    </ol>
+
+    <h2>IX. Revistas científicas de medicina de acceso abierto más relevantes en Colombia</h2>
+    <ol start="52">
+        <li>Biomédica - <a href="https://revistabiomedica.org/">https://revistabiomedica.org/</a></li>
+        <li>Revista Colombiana de Cardiología - <a href="https://www.rccardiologia.com/">https://www.rccardiologia.com/</a></li>
+        <li>Revista de Salud Pública (Colombia) - <a href="https://revistas.unal.edu.co/index.php/revsaludpublica">https://revistas.unal.edu.co/index.php/revsaludpublica</a></li>
+    </ol>
+</body>
+</html>
